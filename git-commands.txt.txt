@@ -1,0 +1,6 @@
+Git Commands
+1. git init :Initializing any repository in git.
+2. git add (filename) :When you are creating any file you have to add that.
+3. git clone (path) :When you have to copy any path from github to git.
+4. git commit :When you are commiting any changes in file.
+5. git push :When you have to push any file from git to github.
